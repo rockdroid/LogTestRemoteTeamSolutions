@@ -1,7 +1,10 @@
-# LogTestRemoteTeamSolutions
+# Log Test Remote Team Solutions
 Test for Backend Developer
 
 **Instructions**
 ---
-`- npm install`
-`- node app.js`
+
+1. Enter logNode directory
+2. `npm install`
+3. `node app.js`
+
